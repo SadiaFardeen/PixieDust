@@ -33,3 +33,20 @@
 	<GL/glu.h>
 	<stdlib.h>
 
+1768629705 source:c:\users\sadia\onedrive\desktop\graphics projects\pixiedust\openglportable\triangle.cpp
+	<GL/glut.h>
+
+1762445124 c:\users\sadia\onedrive\desktop\graphics projects\pixiedust\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1762445124 c:\users\sadia\onedrive\desktop\graphics projects\pixiedust\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
