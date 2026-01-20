@@ -50,11 +50,12 @@
 	<GL/glu.h>
 	<stdlib.h>
 
-1768805152 source:c:\users\sadia\onedrive\desktop\graphics projects\pixiedust\openglportable\main.cpp
+1768807284 source:c:\users\sadia\onedrive\desktop\graphics projects\pixiedust\openglportable\main.cpp
 	<GL/glut.h>
 	"Environment.h"
+	"Coins.h"
 
-1768805432 c:\users\sadia\onedrive\desktop\graphics projects\pixiedust\openglportable\environment.h
+1768938589 c:\users\sadia\onedrive\desktop\graphics projects\pixiedust\openglportable\environment.h
 	<GL/glut.h>
 
 1768631297 source:c:\users\sadia\onedrive\desktop\graphics projects\pixiedust\openglportable\rectangle.cpp
@@ -62,4 +63,13 @@
 
 1768805432 source:c:\users\sadia\onedrive\desktop\graphics projects\pixiedust\openglportable\environment.cpp
 	"Environment.h"
+
+1768807207 source:c:\users\sadia\onedrive\desktop\graphics projects\pixiedust\openglportable\coins.cpp
+	"Coins.h"
+	<math.h>
+
+1768807194 c:\users\sadia\onedrive\desktop\graphics projects\pixiedust\openglportable\coins.h
+	<GL/glut.h>
+
+1768846028 source:c:\users\sadia\onedrive\desktop\graphics projects\pixiedust\openglportable\coincollision.cpp
 

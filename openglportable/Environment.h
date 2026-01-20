@@ -9,7 +9,6 @@ public:
     float red, green, blue;
 
     Platform() {}
-
     Platform(float l, float r, float t, float b, float rd, float gn, float bl);
     void draw();
     void moveLeft(float speed);
@@ -18,5 +17,6 @@ public:
 void initEnvironment();
 void drawEnvironment();
 void updateEnvironment();
+void drawCloud(float cx, float cy, float scale);
 
 #endif
