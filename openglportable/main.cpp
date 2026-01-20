@@ -1,12 +1,16 @@
 #include <GL/glut.h>
 #include "Environment.h"
 #include "Coins.h"
+#include "player.h"
 
 void display() {
     glClear(GL_COLOR_BUFFER_BIT);
 
     drawEnvironment();
     drawCoins();
+    drawHead();
+    drawBody();
+    drawShoes();
 
     glutSwapBuffers();
 }
@@ -29,9 +33,13 @@ int main(int argc, char** argv) {
     initCoins();
 
     glutDisplayFunc(display);
+    glutKeyboardFunc(keyboard);
+    glutKeyboardUpFunc(keyboard);
     glutTimerFunc(0, timer, 0);
+    glutTimerFunc(0, update, 0);
 
     glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
     glutMainLoop();
     return 0;
 }
+
