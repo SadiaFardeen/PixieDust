@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1761037065 source:c:\src\src\openglportable\openglportable\main.cpp
+	<GL/glut.h>
+
+1761036817 c:\src\src\openglportable\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1761036817 c:\src\src\openglportable\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1761531191 source:c:\courses\fall 25-26\computer graphics [m]\openglportable-64bit\openglportable\main.cpp
+	<GL/glut.h>
+
+1761232548 c:\courses\fall 25-26\computer graphics [m]\openglportable-64bit\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1761232548 c:\courses\fall 25-26\computer graphics [m]\openglportable-64bit\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1768902450 source:c:\users\asus\downloads\openglportable-64bit (1)\openglportable-64bit\openglportable\main.cpp
+	<GL/glut.h>
+	"Environment.h"
+	"Coins.h"
+	"player.h"
+
+1768851207 c:\users\asus\downloads\openglportable-64bit (1)\openglportable-64bit\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1768851207 c:\users\asus\downloads\openglportable-64bit (1)\openglportable-64bit\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1768901749 c:\users\asus\downloads\openglportable-64bit (1)\openglportable-64bit\openglportable\player.h
+	<GL/glut.h>
+
+1768901678 source:c:\users\asus\downloads\openglportable-64bit (1)\openglportable-64bit\openglportable\player.cpp
+	"player.h"
+	<cmath>
+
+1768901424 source:c:\users\asus\downloads\openglportable-64bit (1)\openglportable-64bit\openglportable\environment.cpp
+	"Environment.h"
+
+1768901507 c:\users\asus\downloads\openglportable-64bit (1)\openglportable-64bit\openglportable\environment.h
+	<GL/glut.h>
+
+1768902419 c:\users\asus\downloads\openglportable-64bit (1)\openglportable-64bit\openglportable\coins.h
+	<GL/glut.h>
+
+1768902325 source:c:\users\asus\downloads\openglportable-64bit (1)\openglportable-64bit\openglportable\coins.cpp
+	"Coins.h"
+	<math.h>
+
