@@ -39,7 +39,20 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="CoinCollision.cpp" />
+		<Unit filename="CoinCollision.h" />
+		<Unit filename="Coins.cpp" />
+		<Unit filename="Coins.h" />
+		<Unit filename="Environment.cpp" />
+		<Unit filename="Environment.h" />
+		<Unit filename="Rectangle.cpp" />
+		<Unit filename="Rectangle.h" />
+		<Unit filename="Triangle.cpp" />
+		<Unit filename="Triangle.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="openglportable.cbp" />
+		<Unit filename="openglportable.depend" />
+		<Unit filename="openglportable.layout" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
